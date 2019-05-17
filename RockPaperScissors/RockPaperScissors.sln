@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissors", "RockPaperScissors\RockPaperScissors.csproj", "{C700D873-EC94-40FF-B2BA-1EC44E90D9EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C700D873-EC94-40FF-B2BA-1EC44E90D9EE}.Debug|x86.ActiveCfg = Debug|x86
+		{C700D873-EC94-40FF-B2BA-1EC44E90D9EE}.Debug|x86.Build.0 = Debug|x86
+		{C700D873-EC94-40FF-B2BA-1EC44E90D9EE}.Release|x86.ActiveCfg = Release|x86
+		{C700D873-EC94-40FF-B2BA-1EC44E90D9EE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

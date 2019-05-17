@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{C700D873-EC94-40FF-B2BA-1EC44E90D9EE}|Default">
+  <MonoDevelop.Ide.ItemProperties.RockPaperScissors PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RockPaperScissors/Game.cs">
+    <Files>
+      <File FileName="RockPaperScissors/Program.cs" Line="7" Column="1" />
+      <File FileName="RockPaperScissors/Player.cs" Line="7" Column="2" />
+      <File FileName="RockPaperScissors/Game.cs" Line="12" Column="1" />
+      <File FileName="RockPaperScissors/Gestures.cs" Line="7" Column="1" />
+      <File FileName="RockPaperScissors/Score.cs" Line="7" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RockPaperScissors" expanded="True">
+            <Node name="RockPaperScissors" expanded="True">
+              <Node name="Game.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
